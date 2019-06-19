@@ -1,0 +1,42 @@
+body {
+background-image: url("image.jpg");
+}
+Header
+{
+	
+	padding:30px;
+	text-align:center;
+	text-shadow:50px;
+	background-color:#000000;
+	color:white;
+	
+}
+.block
+{
+	
+	padding:50px;
+	text-align:center;
+	text-shadow:50px;
+	background-color:#E5FFCC;
+	color:black;
+}
+
+
+.footer
+{
+	padding:3px;
+	text-align:center;
+	background-color:black;
+	color:white;
+	
+}
+.fbox
+{
+	 text-align:center;
+	
+}
+.fbox span
+{
+	font-size:60px;
+	color:#148D73;
+}
